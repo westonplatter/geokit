@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Geokit::VERSION
   spec.authors       = ["Weston Platter"]
   spec.email         = ["westonplatter@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{summary: Old geokit gem for rails 2.3.x}
+  spec.description   = %q{description: Old geokit gem for rails 2.3.x}
   spec.homepage      = ""
   spec.license       = "MIT"
 
